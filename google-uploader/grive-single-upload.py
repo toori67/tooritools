@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
 import httplib2
-import pprint
 import json
 import sys
 from apiclient.discovery import build
@@ -26,7 +25,7 @@ CLIENT_ID = token_data["clientID"]
 CLIENT_SECRET = token_data["clientSecret"]
 FILE_ID = token_data["fileID"]
 
-if CLIENT_ID == "" || CLIENT_SECRET == "":
+if CLIENT_ID == "" or CLIENT_SECRET == "":
 	print "Get your own api key from google"
 	sys.exit(1)
 
