@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ChefManager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ingredient_json" Type="System.String" Scope="User">
+      <Value Profile="(Default)">resources/ingredient.json</Value>
+    </Setting>
+    <Setting Name="recipe_json" Type="System.String" Scope="User">
+      <Value Profile="(Default)">resources/recipe.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,14 @@
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ChefManager.popup.LanguageSettingForm.resources
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ChefManager.Properties.Resources.resources
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ChefManager.csproj.GenerateResource.Cache
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\bin\Debug\ChefManager.exe.config
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\bin\Debug\ChefManager.exe
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\bin\Debug\ChefManager.pdb
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ChefManager.exe
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ChefManager.pdb
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ChefManager.MainForm.resources
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ChefManager.resources.language.MenuAndDesc.resources
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ChefManager.csprojResolveAssemblyReference.cache
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\bin\Debug\ko-KR\ChefManager.resources.dll
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ChefManager.Resources.language.MenuAndDesc.ko-KR.resources
+C:\Users\tomma_000\Documents\Chalculator\ChefManager\ChefManager\obj\Debug\ko-KR\ChefManager.resources.dll
