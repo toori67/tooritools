@@ -1,4 +1,4 @@
 tooritools
 ==========
 
-well...there are too many temporal project in my git, so I want organize them all.
+well...there are too many temporal projects in my repo, so I want organize them all.
