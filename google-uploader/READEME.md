@@ -1,6 +1,6 @@
 This is single file upload script for google drive.
 
-If you don't install google api python client 
+If you haven't installed google api python client 
 
 	$ pip install --upgrade google-api-python-client
 	
